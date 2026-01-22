@@ -1,0 +1,7 @@
+Git adalah Version Control System (VCS) untuk mengelola perubahan source code
+
+- Repository tempat penyimpanan terpusat untuk seluruh aset dalam sebuah project yang menggunakan Version Code System
+- Branch jalur pengembang terpisah dalam sebuah repository
+- Commit sebuah rekaman pada saat melakukan perubahan pada repository
+- Merge penggabungan Branch yang kita buat
+- Pull Request permintaan untuk penggabungan (merge) perubahan dari satu branch ke branch lain melalui review
