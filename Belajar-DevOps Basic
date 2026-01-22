@@ -6,3 +6,7 @@ Pengenalan DevOps dengan Basic
 * Git,GitLab,GitHub (version Control)
 * Jenkins, GitLab CI, GitHub Actions (CI/CD)
 * Docker Swam (Container)
+- DevOps Lifecycle
+* Plan - Code - Build - Test
+* Release - Deploy - Operations
+* Monitor - Feedback - Inprovenment
