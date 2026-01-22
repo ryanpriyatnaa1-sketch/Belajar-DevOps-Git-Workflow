@@ -1,0 +1,8 @@
+Pengenalan DevOps dengan Basic
+
+- DevOps yaitu penggabungan antara Development dengan Operations agar proses build,testing, dan deploy aplikasi stabil, dan lebih cepat 
+- Tujuan DevOps yaitu mengurangi error dan Otomatisasi Proses
+- tools bagi umum DevOps 
+* Git,GitLab,GitHub (version Control)
+* Jenkins, GitLab CI, GitHub Actions (CI/CD)
+* Docker Swam (Container)
