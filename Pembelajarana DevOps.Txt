@@ -1,7 +1,30 @@
 Git adalah Version Control System (VCS) untuk mengelola perubahan source code
 
 - Repository tempat penyimpanan terpusat untuk seluruh aset dalam sebuah project yang menggunakan Version Code System
+* Menyimpan source code
+* Melacak perubahan kode (versioning)
+* Mendukung kolaborasi tim
+* Menjadi pemicu CI/CD pipeline
+* Menyediakan backup & audit trail
 - Branch jalur pengembang terpisah dalam sebuah repository
+* Mengembangkan fitur baru
+* Memperbaiki bug
+* Melakukan eksperimen
+* Menjaga stabilitas kode utama
 - Commit sebuah rekaman pada saat melakukan perubahan pada repository
+* Menyimpan Riwayat Perubahan
+* Memungkinkan Rollback
+* Mendukung Kolaborasi Tim
+* Menjadi Dasar Branch & Merge
+* Pemicu Otomatisasi (CI/CD)
+* Dokumentasi Perubahan
 - Merge penggabungan Branch yang kita buat
+* Menggabungkan fitur baru 
+* Mengintegrasikan perbaikan bug
+* Menyatukan hasil kerja beberapa developer
+* Menjaga branch utama tetap up to date
 - Pull Request permintaan untuk penggabungan (merge) perubahan dari satu branch ke branch lain melalui review
+* Code review oleh tim
+* Memastikan kode sesuai standar
+* Mendeteksi bug lebih awal
+* Diskusi dan kolaborasi
