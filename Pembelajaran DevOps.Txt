@@ -2,7 +2,6 @@ Git adalah Version Control System (VCS) untuk mengelola perubahan source code
 
 - Repository tempat penyimpanan terpusat untuk seluruh aset dalam sebuah project yang menggunakan Version Code System
 * Menyimpan source code
-* Melacak perubahan kode (versioning)
 * Mendukung kolaborasi tim
 * Menjadi pemicu CI/CD pipeline
 * Menyediakan backup & audit trail
