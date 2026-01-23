@@ -4,7 +4,6 @@ Git adalah Version Control System (VCS) untuk mengelola perubahan source code
 * Menyimpan source code
 * Mendukung kolaborasi tim
 * Menjadi pemicu CI/CD pipeline
-* Menyediakan backup & audit trail
 - Branch jalur pengembang terpisah dalam sebuah repository
 * Mengembangkan fitur baru
 * Memperbaiki bug
