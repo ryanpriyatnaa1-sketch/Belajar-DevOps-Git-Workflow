@@ -1,29 +1,12 @@
 Git adalah Version Control System (VCS) untuk mengelola perubahan source code
 
 - Repository tempat penyimpanan terpusat untuk seluruh aset dalam sebuah project yang menggunakan Version Code System
-* Menyimpan source code
-* Mendukung kolaborasi tim
-* Menjadi pemicu CI/CD pipeline
-* Menyediakan backup & audit trail
+GitLab berfungsi sebagai tempat menyimpan source code, mendukung kolaborasi tim, memicu CI/CD pipeline, serta menyediakan backup dan audit trail
 - Branch jalur pengembang terpisah dalam sebuah repository
-* Mengembangkan fitur baru
-* Memperbaiki bug
-* Melakukan eksperimen
-* Menjaga stabilitas kode utama
+Branch digunakan untuk mengembangkan fitur baru, memperbaiki bug, melakukan eksperimen, dan menjaga stabilitas kode utama
 - Commit sebuah rekaman pada saat melakukan perubahan pada repository
-* Menyimpan Riwayat Perubahan
-* Memungkinkan Rollback
-* Mendukung Kolaborasi Tim
-* Menjadi Dasar Branch & Merge
-* Pemicu Otomatisasi (CI/CD)
-* Dokumentasi Perubahan
+Commit berfungsi untuk menyimpan riwayat perubahan, memungkinkan rollback, mendukung kolaborasi tim, menjadi dasar branch & merge, memicu CI/CD, serta mendokumentasikan perubahan kode
 - Merge penggabungan Branch yang kita buat
-* Menggabungkan fitur baru 
-* Mengintegrasikan perbaikan bug
-* Menyatukan hasil kerja beberapa developer
-* Menjaga branch utama tetap up to date
+Merge digunakan untuk menggabungkan fitur baru, mengintegrasikan perbaikan bug, menyatukan hasil kerja beberapa developer, dan menjaga branch utama tetap up to date
 - Pull Request permintaan untuk penggabungan (merge) perubahan dari satu branch ke branch lain melalui review
-* Code review oleh tim
-* Memastikan kode sesuai standar
-* Mendeteksi bug lebih awal
-* Diskusi dan kolaborasi
+Merge Request berfungsi untuk melakukan code review tim, memastikan kode sesuai standar, mendeteksi bug lebih awal, serta mendukung diskusi dan kolaborasi
